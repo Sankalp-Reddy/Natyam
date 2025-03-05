@@ -1,4 +1,4 @@
-# India Dance and Music Forms
+# India's Dance and Music Forms
 
 This project showcases various dance and music forms from different states of India. It includes an interactive map and search functionality to explore the rich cultural heritage of India.
 
